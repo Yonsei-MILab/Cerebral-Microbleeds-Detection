@@ -1,0 +1,16 @@
+
+
+This dataset has been collected with a collaboration between Medical Imaging LABoratory (MILAB) at Yonsei University and Gachon University Gil Medical Center.
+
+Our dataset contains two in-plane resolutions as follows:
+1. High in-plane resolution (HR): 0.50x0.50 mm^2, and
+2. Low in-plane resolution (LR): 0.80x0.80 mm^2.
+
+HR data composites of 72 subjects, while LR data contains 107 subjects.
+
+The Label folder involves excel files, where each excel file is with the same name as data in the Data folder.
+The information of location of cerebral microbleeds (CMBs) in brain images are existed in those excel files as follow:
+- 1st column represents the slice number of subject,
+- 2nd and 3rd columns indicate the x(column-wise) and y(row-wise) pixel location of CMB in that slice, respectively.
+
+When using this dataset for research publications, please cite our paper.
