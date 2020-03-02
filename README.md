@@ -26,7 +26,7 @@ You can easily change the hyper-parameters such as learning rate, number of epoc
 The dataset used in this project has been collected with a collaboration between the Medical Imaging LABoratory (MILAB) at Yonsei University and Gachon University Gil Medical Center.
 
 You can get access to the dataset with labels through the following downloading link:
-http://kimchi.yonsei.ac.kr/default/00/01.php
+http://kimchi.yonsei.ac.kr/default/06/01.php
 
 Our dataset contains two in-plane resolutions as follows:
 1. High in-plane resolution (HR): 0.50x0.50 mm^2, and
