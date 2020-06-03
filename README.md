@@ -42,7 +42,7 @@ The information of the location of cerebral microbleeds (CMBs) in brain images e
 
 # Our-Submitted-Paper:
 
-The paper entitled: "Automated Detection of Cerebral Microbleeds in MR Images: A Two-Stage Deep Learning Approach" was submitted to the Scientific Reports Journal.
+The paper entitled: "Automated Detection of Cerebral Microbleeds in MR Images: A Two-Stage Deep Learning Approach" was submitted to peer-reviewed journal.
 
 When using our code or dataset for research publications, please cite our paper.
 
