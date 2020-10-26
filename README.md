@@ -42,8 +42,9 @@ The information of the location of cerebral microbleeds (CMBs) in brain images e
 
 # Published-Paper:
 
-Mohammed A. Al-masni, Woo-Ram Kim, Eung Yeop Kim, Young Noh, and Dong-Hyun Kim “Automated Detection of Cerebral Microbleeds in MR Images: A Two-Stage Deep Learning Approach,” NeuroImage: Clinical, vol. 28, pp. 102464, 2020. [ELSEVIER Publisher]
+[1] Mohammed A. Al-masni, Woo-Ram Kim, Eung Yeop Kim, Young Noh, and Dong-Hyun Kim “Automated Detection of Cerebral Microbleeds in MR Images: A Two-Stage Deep Learning Approach,” NeuroImage: Clinical, vol. 28, pp. 102464, 2020. [ELSEVIER Publisher]
+[2] Mohammed A. Al-masni, Woo-Ram Kim, Eung Yeop Kim, Young Noh, and Dong-Hyun Kim, “A Two Cascaded Network Integrating Regional–based YOLO and 3D-CNN for Cerebral Microbleeds Detection,” in the 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 1055-1058. IEEE, Montreal, Quebec, Canada, 2020.
 
-When using our code or dataset for research publications, please cite our paper.
+When using our code or dataset for research publications, please cite our papers.
 
 
