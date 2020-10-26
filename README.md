@@ -40,9 +40,9 @@ The information of the location of cerebral microbleeds (CMBs) in brain images e
 - 1st column represents the slice number of subject,
 - 2nd and 3rd columns indicate the x(column-wise) and y(row-wise) pixel location of CMB in that slice, respectively.
 
-# Our-Submitted-Paper:
+# Published-Paper:
 
-The paper entitled: "Automated Detection of Cerebral Microbleeds in MR Images: A Two-Stage Deep Learning Approach" was submitted to peer-reviewed journal.
+Mohammed A. Al-masni, Woo-Ram Kim, Eung Yeop Kim, Young Noh, and Dong-Hyun Kim “Automated Detection of Cerebral Microbleeds in MR Images: A Two-Stage Deep Learning Approach,” NeuroImage: Clinical, vol. 28, pp. 102464, 2020. [ELSEVIER Publisher]
 
 When using our code or dataset for research publications, please cite our paper.
 
