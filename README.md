@@ -37,7 +37,7 @@ The information of the location of cerebral microbleeds (CMBs) in brain images e
 - 1st column represents the slice number of subject,
 - 2nd and 3rd columns indicate the x(column-wise) and y(row-wise) pixel location of CMB in that slice, respectively.
 
-** # Source code is provided. However, due to patent transfer issue, no longer able to provide the data.
+ # ** Source code is provided. However, due to patent transfer issue, no longer able to provide the data.
 
 # Published-Paper:
 
